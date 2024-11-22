@@ -54,7 +54,7 @@ public class FormularioProductosGUI extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Arial", 1, 36)); // NOI18N
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Presentacion/BannerDrogueria.jpg"))); // NOI18N
 
-        jPanel1.setBackground(new java.awt.Color(0, 0, 255));
+        jPanel1.setBackground(new java.awt.Color(63, 63, 200));
 
         jButton2.setText("Mostrar Productos");
         jButton2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.LOWERED));

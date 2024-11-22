@@ -25,7 +25,7 @@ public class Plantilla extends javax.swing.JFrame {
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Presentacion/BannerDrogueria.jpg"))); // NOI18N
 
-        jPanel2.setBackground(new java.awt.Color(51, 0, 255));
+        jPanel2.setBackground(new java.awt.Color(63, 63, 200));
 
         Boton_Inicio.setFont(new java.awt.Font("Arial", 1, 31)); // NOI18N
         Boton_Inicio.setText("Inicio");
@@ -85,7 +85,7 @@ public class Plantilla extends javax.swing.JFrame {
 
         jPanel2Layout.linkSize(javax.swing.SwingConstants.VERTICAL, new java.awt.Component[] {Boton_Inicio, Boton_Producto, Boton_Proveedor});
 
-        jPanel3.setBackground(new java.awt.Color(51, 51, 255));
+        jPanel3.setBackground(new java.awt.Color(63, 63, 200));
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
